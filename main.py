@@ -1,3 +1,5 @@
+import random
+
 #Part A
 weeks = 16
 classes = 5
@@ -15,3 +17,21 @@ print("Classes per week", type(classes_per_week))
 print("Cost per class", type(cost_per_class))
 
 #Part B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

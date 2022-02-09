@@ -17,7 +17,7 @@ print("Classes per week", type(classes_per_week))
 print("Cost per class", type(cost_per_class))
 
 #Part B
-random.randrange(1,10)
+print(random.randrange(1,10))
 
 
 

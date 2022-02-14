@@ -18,7 +18,9 @@ print("Cost per class", type(cost_per_class))
 
 #Part B
 print(random.randrange(1,10))
-
+avg_height_cm = [160, 170, 180, 190, 200]
+print(avg_height_cm)
+random_height = print(random.choice(avg_height_cm))
 
 
 
